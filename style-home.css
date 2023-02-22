@@ -1,0 +1,28 @@
+.bg-custom {
+  background-color: rgb(50, 72, 5);
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-link {
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+.btn-custom {
+  background-color: rgb(50, 72, 5) !important;
+  font-weight: 800 !important;
+  color: white !important;
+}
+
+.btn-collection {
+  max-width: 241px;
+  margin: 2em auto;
+}
+
+.btn-collection-playing {
+  max-width: 110px;
+  margin: 2em auto;
+}
